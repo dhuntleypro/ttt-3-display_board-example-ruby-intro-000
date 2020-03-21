@@ -2,3 +2,5 @@
 def display_board
   puts "The specified Tic Tac Toe board"
 end
+
+display_board
